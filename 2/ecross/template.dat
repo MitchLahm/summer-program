@@ -1,7 +1,0 @@
-molecule {{
-{:}}}
-
-set e_convergence 11
-set basis         cc-pVDZ
-energy('scf')
-
